@@ -55,7 +55,7 @@ section.imagem{
     background-color: rgb(70, 70, 70);
     color: white;
      box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.601);
-      background-attachment: fied;
+      background-attachment: fixed;
 }
 
 section.imagem > p{
@@ -72,7 +72,7 @@ section#img01 {
 }
 
 section#img02 {
-    background-image: url();
+    background-image: url(IMG_0484.jpeg);
     background-position: left top;
     background-size: cover;
 }
